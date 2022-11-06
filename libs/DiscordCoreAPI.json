@@ -8,6 +8,12 @@
     "gateway",
     "interactions",
     "rest",
-    "webhooks"
-  ]
+    "webhooks",
+    "voice"
+  ],
+  ,
+  "urls": {
+    "homepage": "https://discordcoreapi.info/",
+    "documentation": "https://discordcoreapi.info/d2/d73/a07220.html",
+    "discord": "https://discord.gg/xvNXwPGgBB",
 }
